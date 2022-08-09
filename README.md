@@ -38,3 +38,5 @@ cakePHP 4.44
 - or include below at the end of php.ini
     [PHP_INTL]
     extension=php_intl.dll
+![image](https://user-images.githubusercontent.com/98348781/183734573-8e31b5c1-f674-4638-81a2-ee1fbfb16ddf.png)
+
