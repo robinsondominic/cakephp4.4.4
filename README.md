@@ -48,3 +48,6 @@ cakePHP 4.44
 - In Vscode Press the F1 function key on Keyboard and select IIS Express:Start Website, see below
 ![image](https://user-images.githubusercontent.com/98348781/183735619-751f7ef0-4d6e-45e1-92be-7beac0d1c9b9.png)
 
+- Chrome or Default Browser should Popup and CakePHP 4.4.4 Application Page will display, see below 
+![cakephp4 4 4](https://user-images.githubusercontent.com/98348781/183736229-e5b6b734-f72e-46fd-8efe-1c903e7d87e8.png)
+
