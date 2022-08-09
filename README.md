@@ -1,11 +1,11 @@
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 ## Installation
 
-1. Download [Composer](https://getcomposer.org/doc/00-intro.md)
+- Download [Composer](https://getcomposer.org/doc/00-intro.md)
 
 If Composer is installed globally, run
-2. Run `cmd`.
-3. Run `composer create-project --prefer-dist cakephp/app:~4.0 my_app_name`.
+- Run `cmd`.
+- Run `composer create-project --prefer-dist cakephp/app:~4.0 my_app_name`.
 
 
 # cakephp4.4.4
