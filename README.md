@@ -23,3 +23,18 @@ cakePHP 4.44
 	<fastCgi>
 		<application fullPath="C:\Program Files\PHP\v7.4.3\php-cgi.exe" />
 	</fastCgi>
+- Ensure to edit web.config and set the below to point to path where PHP is installed on your PC set scriptProcessor="yourPHPInstalledPath\php-cgi.exe"
+   <handlers accessPolicy="Read, Script"> 
+      <add name="php-7.4.1" path="*.php" verb="GET,HEAD,POST" modules="FastCgiModule" scriptProcessor="C:\Program Files\PHP\v7.4.3\php-cgi.exe" resourceType="Either" />
+	</handlers>
+- Also include the following in php.in whch can be found in PHP Installation Path eg. C:\Program Files\PHP\v7.4.3\php.ini or C:\PHP\v7.4.3\php.ini
+    extension_dir = "C:\Program Files\PHP\v7.4.3\ext\"
+    cgi.force_redirect = 0
+    cgi.fix_pathinfo = 1
+    fastcgi.impersonate = 1
+    fastcgi.logging = 0
+    
+- uncomment extension=php_intl.dll (or extension=intl) in php.ini 
+- or include below at the end of php.ini
+    [PHP_INTL]
+    extension=php_intl.dll
