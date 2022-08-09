@@ -12,7 +12,7 @@ If Composer is installed globally, run
 cakePHP 4.44
 - GitHub Repository of a Working installation of CakePHP 4.4.4 configured to work on windows 10 running IIS Server or IIS Express
 - Simple download the repository, extra to a folder e.g appname
-- If you have Visual Studio for Code installed, right click and select Open with Code to open folder. if not Download  [64 bit Windows versionVSCode] (https://code.visualstudio.com/download)
+- If you have Visual Studio for Code installed, right click and select Open with Code to open folder. if not Download  [64 bit Windows version VSCode] (https://code.visualstudio.com/download)
 - Install IIS Express extension for VSCode or Download [IIS Express] (https://marketplace.visualstudio.com/items?itemName=warren-buckley.iis-express)
 - By Default IIS Express Server is installed on Windows 10.
 - Ensure that PHP is installed or Download [VC15 x64 Non Thread Safe] (https://windows.php.net/downloads/releases/php-7.4.30-nts-Win32-vc15-x64.zip)
