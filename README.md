@@ -38,5 +38,11 @@ cakePHP 4.44
 - or include below at the end of php.ini
     [PHP_INTL]
     extension=php_intl.dll
+
+- to run cakephp after extracting to folder cakephp4 right click and select open with code, see below
 ![image](https://user-images.githubusercontent.com/98348781/183734573-8e31b5c1-f674-4638-81a2-ee1fbfb16ddf.png)
+
+- VSCode should open the application folder, see below
+![image](https://user-images.githubusercontent.com/98348781/183735169-dffc7169-4b6c-47db-8d80-b5e866099c5d.png)
+
 
