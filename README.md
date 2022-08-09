@@ -45,4 +45,6 @@ cakePHP 4.44
 - VSCode should open the application folder, see below
 ![image](https://user-images.githubusercontent.com/98348781/183735169-dffc7169-4b6c-47db-8d80-b5e866099c5d.png)
 
+- In Vscode Press the F1 function key on Keyboard and select IIS Express:Start Website, see below
+![image](https://user-images.githubusercontent.com/98348781/183735619-751f7ef0-4d6e-45e1-92be-7beac0d1c9b9.png)
 
